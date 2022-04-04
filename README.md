@@ -36,6 +36,7 @@
     ![image](https://user-images.githubusercontent.com/101852647/161508312-92399a61-1b5a-4c7f-9da1-c57408a0b898.png)
     
 - Tiếp theo, em sẽ sử dụng các biểu thức chính quy để tìm tất cả kết quả phù hợp. Bây giờ, em sẽ phân tích các biểu thức để có được kết quả như mong muốn
+
      `[a-z]: 1 chữ thường
       [A-Z] : 1 chữ in hoa
       [A-Z]{3}: 3 chữ cái viết hoa liên tiếp
