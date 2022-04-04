@@ -4,8 +4,9 @@
  ### MỤC LỤC
  1. [Ý tưởng giải challenge](#gioithieu)      
  2. [Sử dụng request để giải challenge](#gioithieu)
- 3. [Sử dụng `__name__ = '__main__'`](#gioithieu)
- 4. [Dịch các hàm cần sử dụng](#gioithieu) 
+ 3. [Thêm comment vào code](#gioithieu)
+ 4. [Sử dụng `__name__ = '__main__'`](#gioithieu)
+ 5. [Dịch các hàm cần sử dụng](#gioithieu) 
 
 ### Nội dung báo cáo 
 #### 1. Ý tưởng giải challenge <a name="gioithieu"></a>
@@ -54,4 +55,9 @@
 
     ![image](https://user-images.githubusercontent.com/101852647/161513103-a8574562-8bec-4841-840d-adf600ec692d.png)
 
+#### 3. Thêm comment vào code<a name="gioithieu"></a>  
 
+    ![image](https://user-images.githubusercontent.com/101852647/161561356-ed9d675e-264e-45af-85d0-d7154e3b267c.png)
+
+#### 3. Sử dụng `__name__ = '__main__'<a name="gioithieu"></a>
+ -
