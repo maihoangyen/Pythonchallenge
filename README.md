@@ -51,7 +51,7 @@
      
      - `[^A-Z]+[A-Z]{3}[a-z][A-Z]{3}[^A-Z]+:` một cái gì đó khác trước và sau mẫu ( XXXaVVV) của chúng ta, vì vậy không có nhiều hơn 3 chữ cái viết hoa liên tiếp ở mỗi bên
      
-     - `[^A-Z]+[A-Z]{3}([a-z])[A-Z]{3}[^A-Z]+:` chúng ta chỉ quan tâm đến chữ thường`
+     - `[^A-Z]+[A-Z]{3}([a-z])[A-Z]{3}[^A-Z]+:` chúng ta chỉ quan tâm đến chữ thường
       
    ![image](https://user-images.githubusercontent.com/101852647/161511501-ce2d278b-fade-410e-8c09-86fddf725369.png)
     
