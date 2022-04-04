@@ -2,14 +2,14 @@
  ## Họ và tên: Mai Thị Hoàng Yến
  ## Ngày báo cáo: Ngày 4/4/2022
  ### MỤC LỤC
- 1. [Ý tưởng giải challenge](#gioithieu)      
- 2. [Sử dụng request để giải challenge](#gioithieu)
- 3. [Thêm comment vào code](#gioithieu)
- 4. [Sử dụng `__name__ = '__main__'`](#gioithieu)
- 5. [Dịch các hàm cần sử dụng](#gioithieu) 
+ 1. [Ý tưởng giải challenge](#yt)      
+ 2. [Sử dụng request để giải challenge](#sd)
+ 3. [Thêm comment vào code](#tc)
+ 4. [Sử dụng `__name__ = '__main__'`](#sdu)
+ 5. [Ý nghĩa các hàm cần sử dụng](#yn) 
 
 ### Nội dung báo cáo 
-#### 1. Ý tưởng giải challenge <a name="gioithieu"></a>
+#### 1. Ý tưởng giải challenge <a name="yt"></a>
 
   - Đầu tiên, khi chúng ta nhấn vào liên kết`http://www.pythonchallenge.com/pc/def/equality.html` thì sẽ hiện ra hình ảnh như hình bên dưới. Như chúng ta có thể thấy đây là hình ảnh 1 cây nén nhỏ bên trái và bên phải đều có 3 cây nến lớn. Ở đây, chúng ta tạm ký hiệu cho nó là `XXXaVVV`.
     
@@ -23,7 +23,7 @@
   - Tiếp theo chúng ta có thể sử dụng được những biểu thức chính quy để để tìm kết quả phù hợp.
   - Sau khi tìm được những chữ cái phù hợp thì chúng ta sẽ ghép chúng lại với nhau. Như vậy là chúng ta đã có được kết quả.
   
-#### 2. Sử dụng request để giải challenge <a name="gioithieu"></a>  
+#### 2. Sử dụng request để giải challenge <a name="sd"></a>  
    
 - Như ở trên em đã trình bày ý tưởng thì sau khi đã tìm được đoạn chữ cái ở cuối trang trong source code thì em sẽ bắt đầu trích xuất văn bản trực tiếp từ HTML và em chạy tất cả chương trình trên google colab.
   
@@ -55,17 +55,17 @@
 
     ![image](https://user-images.githubusercontent.com/101852647/161513103-a8574562-8bec-4841-840d-adf600ec692d.png)
 
-#### 3. Thêm comment vào code<a name="gioithieu"></a>  
+#### 3. Thêm comment vào code<a name="tc"></a>  
 
    ![image](https://user-images.githubusercontent.com/101852647/161561356-ed9d675e-264e-45af-85d0-d7154e3b267c.png)
 
-#### 3. Sử dụng `__name__ = '__main__'`<a name="gioithieu"></a>
+#### 3. Sử dụng `__name__ = '__main__'`<a name="sdu"></a>
 
  - Trong Python, `"if__name __ ==" __main__ "` cho phép chúng ta chạy các tệp chứa mã nguồn Python dưới dạng các mô-đun có thể tái sử dụng hoặc các chương trình độc lập.
  
    ![image](https://user-images.githubusercontent.com/101852647/161567970-cc0e6f26-f4a2-4760-b1c3-fb6c38707358.png)
    
-#### 4. Ý nghĩa các hàm cần sử dụng <a name="gioithieu"></a>
+#### 4. Ý nghĩa các hàm cần sử dụng <a name="yn"></a>
 
  - `urllib.request`: Thư viện này được sử dụng chủ yếu cho việc mở và lấy URL
  - `re`: Thư viện này sử dụng để làm việc với biểu thức chính quy
