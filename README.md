@@ -37,14 +37,21 @@
     
 - Tiếp theo, em sẽ sử dụng các biểu thức chính quy để tìm tất cả kết quả phù hợp. Bây giờ, em sẽ phân tích các biểu thức để có được kết quả như mong muốn
 
-     `[a-z]: 1 chữ thường
-      [A-Z] : 1 chữ in hoa
-      [A-Z]{3}: 3 chữ cái viết hoa liên tiếp
-      [A-Z]{3}[a-z][A-Z]{3}: 3 chữ hoa + 1 chữ thường + 3 chữ hoa
-      [^A-Z] : bất kỳ ký tự nhưng một ký tự hoa
-      [^A-Z]+: ít nhất một ký tự như vậy
-      [^A-Z]+[A-Z]{3}[a-z][A-Z]{3}[^A-Z]+: một cái gì đó khác trước và sau mẫu ( XXXaVVV) của chúng ta, vì vậy không có nhiều hơn 3 chữ cái viết hoa liên tiếp ở mỗi bên
-      [^A-Z]+[A-Z]{3}([a-z])[A-Z]{3}[^A-Z]+: chúng ta chỉ quan tâm đến chữ thường`
+     - `[a-z]:` 1 chữ thường
+     
+     - `[A-Z]:` 1 chữ in hoa
+     
+     - `[A-Z]{3}:` 3 chữ cái viết hoa liên tiếp
+     
+     - `[A-Z]{3}[a-z][A-Z]{3}:` 3 chữ hoa + 1 chữ thường + 3 chữ hoa
+     
+     - `[^A-Z]:` bất kỳ ký tự nhưng một ký tự hoa
+     
+     - `[^A-Z]+:` ít nhất một ký tự như vậy
+     
+     - `[^A-Z]+[A-Z]{3}[a-z][A-Z]{3}[^A-Z]+:` một cái gì đó khác trước và sau mẫu ( XXXaVVV) của chúng ta, vì vậy không có nhiều hơn 3 chữ cái viết hoa liên tiếp ở mỗi bên
+     
+     - `[^A-Z]+[A-Z]{3}([a-z])[A-Z]{3}[^A-Z]+:` chúng ta chỉ quan tâm đến chữ thường`
       
    ![image](https://user-images.githubusercontent.com/101852647/161511501-ce2d278b-fade-410e-8c09-86fddf725369.png)
     
