@@ -59,13 +59,13 @@
 
    ![image](https://user-images.githubusercontent.com/101852647/161561356-ed9d675e-264e-45af-85d0-d7154e3b267c.png)
 
-#### 3. Sử dụng `__name__ = '__main__'`<a name="sdu"></a>
+#### 4. Sử dụng `__name__ = '__main__'`<a name="sdu"></a>
 
  - Trong Python, `"if__name __ ==" __main__ "` cho phép chúng ta chạy các tệp chứa mã nguồn Python dưới dạng các mô-đun có thể tái sử dụng hoặc các chương trình độc lập.
  
    ![image](https://user-images.githubusercontent.com/101852647/161567970-cc0e6f26-f4a2-4760-b1c3-fb6c38707358.png)
    
-#### 4. Ý nghĩa các hàm cần sử dụng <a name="yn"></a>
+#### 5. Ý nghĩa các hàm cần sử dụng <a name="yn"></a>
 
  - `urllib.request`: Thư viện này được sử dụng chủ yếu cho việc mở và lấy URL
  - `re`: Thư viện này sử dụng để làm việc với biểu thức chính quy
