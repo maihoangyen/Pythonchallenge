@@ -59,12 +59,20 @@
 
    ![image](https://user-images.githubusercontent.com/101852647/161561356-ed9d675e-264e-45af-85d0-d7154e3b267c.png)
 
-#### 3. Sử dụng `__name__ = '__main__'<a name="gioithieu"></a>
+#### 3. Sử dụng `__name__ = '__main__'`<a name="gioithieu"></a>
 
  - Trong Python, `"if__name __ ==" __main__ "` cho phép chúng ta chạy các tệp chứa mã nguồn Python dưới dạng các mô-đun có thể tái sử dụng hoặc các chương trình độc lập.
  
    ![image](https://user-images.githubusercontent.com/101852647/161567970-cc0e6f26-f4a2-4760-b1c3-fb6c38707358.png)
    
-#### 3. Ý nghĩa các hàm cần sử dụng <a name="gioithieu"></a>
+#### 4. Ý nghĩa các hàm cần sử dụng <a name="gioithieu"></a>
 
- - 
+ - `urllib.request`: Thư viện này được sử dụng chủ yếu cho việc mở và lấy URL
+ - `re`: Thư viện này sử dụng để làm việc với biểu thức chính quy
+ - `urllib.request.urlopen` : Giúp chúng ta mở tệp HTML từ URL
+ - `read()`: Sử dụng để đọc một tệp HTML từ URL
+ - `decode()`: Nó chấp nhận mã hóa của chuỗi mã hóa để giải mã nó và trả về chuỗi ban đầu
+ - `re.findall`: Được sử dụng để nhận tất cả các kết quả phù hợp không chồng chéo của mẫu trong chuỗi dữ liệu dưới dạng trả về, ở dạng danh sách các chuỗi
+ - `re.DOTALL`: Làm cho ký tự đặc biệt ‘.’ Khớp với tất cả các ký tự, bao gồm cả các ký tự dòng mới
+ - `join`: trả về một chuỗi bằng cách nối tất cả các phần tử của một chuỗi có thể lặp lại, được phân tách bằng dấu phân cách chuỗi.
+ - `__name__ == '__main__'`: cho phép chúng ta chạy các tệp chứa mã nguồn Python dưới dạng các mô-đun có thể tái sử dụng hoặc các chương trình độc lập
