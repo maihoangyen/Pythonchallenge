@@ -57,7 +57,7 @@
 
 #### 3. Thêm comment vào code<a name="gioithieu"></a>  
 
-    ![image](https://user-images.githubusercontent.com/101852647/161561356-ed9d675e-264e-45af-85d0-d7154e3b267c.png)
+   ![image](https://user-images.githubusercontent.com/101852647/161561356-ed9d675e-264e-45af-85d0-d7154e3b267c.png)
 
 #### 3. Sử dụng `__name__ = '__main__'<a name="gioithieu"></a>
  -
