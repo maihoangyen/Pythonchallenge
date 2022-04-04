@@ -12,11 +12,11 @@
 
   - Đầu tiên, khi chúng ta nhấn vào liên kết`http://www.pythonchallenge.com/pc/def/equality.html` thì sẽ hiện ra hình ảnh như hình bên dưới. Như chúng ta có thể thấy đây là hình ảnh 1 cây nén nhỏ bên trái và bên phải đều có 3 cây nến lớn. Ở đây, chúng ta tạm ký hiệu cho nó là `XXXaVVV`.
     
-    ![image](https://user-images.githubusercontent.com/101852647/161514947-7c4de776-82f7-45a5-9996-df71e129a131.png)
+    ![image](https://user-images.githubusercontent.com/101852647/161515482-fc906d5e-7b5e-4c63-b8b7-86d8c748a5cd.png)
     
   - Tiếp theo, chúng ta sẽ mở source code của trang web này để xem thử thì thấy ở cuối dòng xuất hiện một khối cái chữ cái khác nhau như hình dưới đây
   
-    ![image](https://user-images.githubusercontent.com/101852647/161514993-585534fb-cc0a-415d-9b4a-aecf0fa699bb.png)
+    ![image](https://user-images.githubusercontent.com/101852647/161515500-2c73c905-32ee-4c9b-9d67-f9d919c1ee2b.png)
   
   - Sau đó chúng ta copy đoạn chữ cái ở cuối trang trong source code vào file .txt hoặc là có thể trích xuất văn bản trực tiếp từ html để có thể tải dữ liệu lên.
   - Tiếp theo chúng ta có thể sử dụng được những biểu thức chính quy để để tìm kết quả phù hợp.
@@ -30,7 +30,7 @@
     
 - Hoặc em có thể copy nó và lưu nó vào file `task4.txt` và tải file đó lên để bắt đầu đọc nó. Ở đây e sử dụng câu lệnh `data = open('/task4.txt').read()` 
 
-    ![image](https://user-images.githubusercontent.com/101852647/161515061-cf922574-daf8-43a3-abfe-1a04b2a5816a.png)
+    ![image](https://user-images.githubusercontent.com/101852647/161515548-6e5d5eea-7969-449f-a2d7-84702725e622.png)
     
     ![image](https://user-images.githubusercontent.com/101852647/161508312-92399a61-1b5a-4c7f-9da1-c57408a0b898.png)
     
