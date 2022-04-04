@@ -44,14 +44,14 @@
       [^A-Z]+[A-Z]{3}[a-z][A-Z]{3}[^A-Z]+: một cái gì đó khác trước và sau mẫu ( XXXaVVV) của chúng ta, vì vậy không có nhiều hơn 3 chữ cái viết hoa liên tiếp ở mỗi bên
       [^A-Z]+[A-Z]{3}([a-z])[A-Z]{3}[^A-Z]+: chúng ta chỉ quan tâm đến chữ thường`
       
-      ![image](https://user-images.githubusercontent.com/101852647/161511501-ce2d278b-fade-410e-8c09-86fddf725369.png)
+   ![image](https://user-images.githubusercontent.com/101852647/161511501-ce2d278b-fade-410e-8c09-86fddf725369.png)
     
 - Sau khi đã có được những chữ cái phù hợp rồi chúng ta sẽ ghép chúng lại với nhau để có được kết quả mong đợi. Cuối cùng, chúng ta đã có kết quả sau khi ghép lại là: `linkedlist`
 
-      ![image](https://user-images.githubusercontent.com/101852647/161512139-8d65a864-6f0a-4724-8f07-53d0d67ec3c5.png)
+    ![image](https://user-images.githubusercontent.com/101852647/161512139-8d65a864-6f0a-4724-8f07-53d0d67ec3c5.png)
       
 - Đây là toàn bộ code để tìm được kết quả:
 
-      ![image](https://user-images.githubusercontent.com/101852647/161513103-a8574562-8bec-4841-840d-adf600ec692d.png)
+    ![image](https://user-images.githubusercontent.com/101852647/161513103-a8574562-8bec-4841-840d-adf600ec692d.png)
 
 
